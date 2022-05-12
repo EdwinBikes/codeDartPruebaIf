@@ -23,3 +23,74 @@ void main() {
 
   print("la nota $nota es igual al resultado $notaLetra");
 }
+
+void main() {
+  
+String nombre = ("yir");
+  var estatura = "157";
+  var trabajo = ("fisioterapeuta");
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  String yir = "yir";
+  
+  if (nombre == yir) {
+   print ("Es una $trabajo de mal genio es gordita y si mide $estatura es bien chiquita");
+  }
+  else{
+    print ('No se encuentra la persona que busca');
+  }
+  
+  
+  
+}
+  
